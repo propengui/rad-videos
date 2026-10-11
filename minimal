@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:ls="https://www.littlestar.com">
+  <channel>
+    <title>RSS Test</title>
+    <link>https://rad.live/</link>
+    <description>Test feed</description>
+
+    <item>
+      <title>Test Video</title>
+      <link>https://www.example.com/video.mp4</link>
+      <description>Testing RSS import</description>
+      <ls:content-type>ff</ls:content-type>
+      <ls:content-layout>2d</ls:content-layout>
+    </item>
+  </channel>
+</rss>
