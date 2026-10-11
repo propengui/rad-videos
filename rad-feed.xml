@@ -9,14 +9,15 @@
 
     <!-- CzechVR -->
     <item>
-      <title>CzechVR 750 — 3D 5400x2700 60fps Oculus Rift H265</title>
+      <title>CzechVR 750 — 3D 5400x2700 60fps H265</title>
       <link>https://trailers.czechvr.com/czechvr/videos/download/750/750-czechvr-3d-5400x2700-60fps-oculusrift_h265-fullvideo-1.mp4</link>
       <guid isPermaLink="false">czechvr-750</guid>
-      <description>CzechVR 750 — 180° SBS 3D VR video, 5400x2700, 60fps, H265, Oculus Rift</description>
+      <description>180-degree stereoscopic VR video, 5400x2700, 60fps, H265.</description>
       <category>VR</category>
       <category>180 SBS</category>
+      <ls:duration>0</ls:duration>
       <ls:content-type>180</ls:content-type>
-      <ls:content-layout>sbs</ls:content-layout>
+      <ls:content-layout>sbs_fr</ls:content-layout>
     </item>
 
     <item>
