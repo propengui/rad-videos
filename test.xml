@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ls="https://www.littlestar.com">
+  <channel>
+    <title>rad.live Test Feed</title>
+    <link>https://rad.live/</link>
+    <description>Minimal VR video feed test</description>
+    <language>en-us</language>
+
+    <item>
+      <title>CzechVR 750 — VR Test</title>
+      <link>https://trailers.czechvr.com/czechvr/videos/download/750/750-czechvr-3d-5400x2700-60fps-oculusrift_h265-fullvideo-1.mp4</link>
+      <guid isPermaLink="false">czechvr-750-test</guid>
+      <description>180-degree stereoscopic side-by-side VR video.</description>
+      <category>VR</category>
+      <ls:content-type>180</ls:content-type>
+      <ls:content-layout>sbs</ls:content-layout>
+    </item>
+
+  </channel>
+</rss>
